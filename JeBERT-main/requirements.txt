@@ -1,0 +1,6 @@
+python == 3.7.13
+transformers == 4.18.0
+pyngrok == 5.1.0
+streamlit == 1.9.0
+sentencepiece == 0.1.96
+torch == 1.11.0
